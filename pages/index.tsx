@@ -40,9 +40,7 @@ export default function Home() {
                 <button className={styles.btnSignin} type='button'>SIGN IN</button>
                 <a >Forgot Password</a>
                 <button className={styles.btnRegister} type='button'>SIGN IN</button>
-                <p>Hanc ego assentior cum a philosophis compluribus 
-                  permulta dicantur.
-                </p>
+                <p>Hanc ego assentior cum a philosophis compluribus permulta dicantur.</p>
             </div>
         </div>
 
